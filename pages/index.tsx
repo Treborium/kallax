@@ -1,5 +1,5 @@
-import styles from '../styles/Home.module.css';
+import { Text } from '@chakra-ui/react';
 
 export default function Home() {
-  return <h1>Hello World!</h1>;
+  return <Text as='h1'>Hello World!</Text>;
 }
