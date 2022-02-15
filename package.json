@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "name": "kallax",
+  "version": "1.0.0",
+  "description": "a private document store hosted in AWS S3",
+  "author": "Robert Fuchs <robertfuchs97@gmail.com>",
+  "repository": "https://github.com/Treborium/kallax",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
